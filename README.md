@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on:
+  - [CorpusExplorer - SDK + GUI](https://github.com/notesjor/corpusexplorer2.0) - The PhD is completed, but the project is still ongoing.
+  - [CorpusExplorer - Console version for HPC-Cluster](https://github.com/notesjor/CorpusExplorer.Terminal.Console) - Have fun with a lot of corpus-data.
+  - [CorpusExplorer - web based file converter](https://github.com/notesjor/CorpusExplorer.Tool4.WebConvert) - Try it [online](http://convert.corpusexplorer.de/)
+  - [TFRES - Tiny Fast REST Endpoint Server](https://github.com/notesjor/TFRES-TinyFastRestEndpointServer) - It's small fast and secure.
+  - [OWIDplusLIVE](https://github.com/notesjor/IDS.OWID.Plus.Live) - Live news analysis. Try it [online](https://www.owid.de/plus/live-2021/)
+  - and many more... 
+
 <!--
 **notesjor/notesjor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
