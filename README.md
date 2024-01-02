@@ -6,7 +6,7 @@
   - [CorpusExplorer - web based file converter](https://github.com/notesjor/CorpusExplorer.Tool4.WebConvert) - Try it [online](http://convert.corpusexplorer.de/)
   - [TFRES - Tiny Fast REST Endpoint Server](https://github.com/notesjor/TFRES-TinyFastRestEndpointServer) - It's small, fast and secure.
   - [OWIDplusLIVE](https://github.com/notesjor/IDS.OWID.Plus.Live) - Live news analysis. Try it [online](https://www.owid.de/plus/live-2021/)
-  - [and many more... ](https://github.com/notesjor?tab=repositories)
+  - [and many more... ](https://github.com/notesjor?tab=repositories) / 🖼📸 [SCREENSHOTS](https://notes.jan-oliver-ruediger.de/software/)
 
 - 👯 I’m looking to collaborate on:
   - corpus-linguistics
