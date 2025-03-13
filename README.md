@@ -9,17 +9,20 @@
   - [and many more... ](https://github.com/notesjor?tab=repositories) / 🖼📸 [SCREENSHOTS](https://notes.jan-oliver-ruediger.de/software/)
 
 - 👯 I’m looking to collaborate on:
-  - corpus-linguistics
-  - text-mining
+  - translation
+  - scientific cooperations
+  - nice talks about "research software" and "software research"
 
 - 💬 Ask me about:
   - corpus-linguistics
-  - text-mining
+  - text-mining / data-minig
+  - NLProc - Natural language processing
+  - RSE - Research Software Engineering
 
 - 📫 How to reach me:
   - work-profile: https://perso.ids-mannheim.de/seiten/ruediger.html
   - private blog (contact / pgp-key): https://notes.jan-oliver-ruediger.de/
-  - twitter: [@notesjor](https://twitter.com/notesjor) / mastodon: [https://det.social/@notesjor](https://det.social/@notesjor)
+  - twitter: [@notesjor](https://twitter.com/notesjor) / fedivers (e.g. mastodon): [@me@notes.jan-oliver-ruediger.de](https://notes.jan-oliver-ruediger.de/@me)
 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Married. Likes gender-\*-asterisks and non-discriminatory speech and behavior. Always has 2-3 servers in reserve (you never know).
