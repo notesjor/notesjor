@@ -27,6 +27,12 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Married. Likes gender-\*-asterisks and non-discriminatory speech and behavior. Always has 2-3 servers in reserve (you never know).
 
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=notesjor&theme=dark&hide_border=true" alt="overview statistics" />
+  <img src="https://github-profile-trophy.vercel.app/?username=notesjor&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="github trophys" />
+</p>
+
 <!--
 **notesjor/notesjor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
